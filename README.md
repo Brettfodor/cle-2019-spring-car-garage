@@ -2,7 +2,7 @@
 
 ## Installation instructions
 
-1. Clone the project to your `~/wcci/source_code` directory.
+1. Clone the project to your `~/wcci/source_code` or `~/wcci/source/repos` directory.
 1. Open the project in Visual Studio and get started.
 
 ## Instructions
